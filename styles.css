@@ -1,0 +1,50 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.btn {
+  margin: auto;
+  display: block;
+  font-size: 1.2rem;
+  background-color: #fffbeb;
+  padding: 8px;
+  color: #b31312;
+  font-family: "Space Grotesk", sans-serif;
+  border-radius: 8px;
+  border: solid 2px #b31312;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #ffd0d0;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Bagel Fat One", cursive;
+  text-shadow: 4px 0 #b31312;
+  font-size: 8rem;
+  color: #ff9eaa;
+  font-weight: 300;
+}
+
+p {
+  font-size: 2rem;
+  color: #ff9eaa;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
