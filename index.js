@@ -10,10 +10,10 @@ document.querySelector(".img1").src = diceImages[randomNumber1];
 document.querySelector(".img2").src = diceImages[randomNumber2];
 
 if (randomNumber1 > randomNumber2) {
-    document.querySelector("h1").innerText = "Player 1 Wins!";
+    document.querySelector("h1").innerText = "🚩 Player 1 Wins!";
 }
 else if (randomNumber1 < randomNumber2) {
-document.querySelector("h1").innerText = "Player 2 Wins!";
+document.querySelector("h1").innerText = "Player 2 Wins! 🚩 ";
 }
 else if (randomNumber1 == randomNumber2) {
     document.querySelector("h1").innerText = "Draw!";

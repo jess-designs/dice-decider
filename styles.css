@@ -24,10 +24,10 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 50px 0 30px;
   font-family: "Bagel Fat One", cursive;
   text-shadow: 4px 0 #b31312;
-  font-size: 8rem;
+  font-size: 7.5rem;
   color: #ff9eaa;
   font-weight: 300;
 }
